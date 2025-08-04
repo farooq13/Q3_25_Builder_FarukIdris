@@ -10,3 +10,6 @@
 [submodule "capstone"]
 	path = capstone
 	url = https://github.com/farooq13/capstone.git
+[submodule "Marketplace"]
+	path = Marketplace
+	url = https://github.com/farooq13/Marketplace.git
